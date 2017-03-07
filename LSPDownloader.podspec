@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-    "LSPDownloader test"
+    LSPDownloadernnnnn.包含了基本的配置, 分类, 工具类等等
                    DESC
 
   s.homepage     = "https://github.com/liangshupei/LSPDownloader"
